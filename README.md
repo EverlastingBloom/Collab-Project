@@ -41,7 +41,7 @@ Live Demo: [link-demo-jika-ada](#)
 
 ## Contribution
 
-| Jokowi Muda | Role | Kontribusi |
+| Nama Anggota | Role | Kontribusi |
 |---|---|---|
 | [David] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
 | [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
