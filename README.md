@@ -44,8 +44,8 @@ Live Demo: [link-demo-jika-ada](#)
 | Nama Anggota | Role | Kontribusi |
 |---|---|---|
 | [David] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| [David] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| [Nelson] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
 
